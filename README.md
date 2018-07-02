@@ -33,4 +33,3 @@ If you use the paper, code or data for your research, please cite:
   booktitle = {IEEE Intl Conference on Robotics and Automation (ICRA)},
   journal = {IEEE Intl Conference on Robotics and Automation (ICRA)}
 }
-```# Defo-Net
