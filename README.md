@@ -2,7 +2,7 @@
 Zhihua Wang*, Stefano Rosa*, Linhai Xie, Bo Yang, Sen Wang, Niki Trigoni, Andrew Markham. In ICRA 2018. <br />
 (* indicates equal contributions)
 
-![Teaser_Image](https://github.com/vividda/readme-template/blob/master/illustration.jpg)
+![Teaser_Image](https://github.com/vividda/Defo-Net/blob/master/illustration.jpg)
 
 ## Full Paper
 [https://arxiv.org/abs/1804.05928](https://arxiv.org/abs/1804.05928)
@@ -21,7 +21,7 @@ tensorflow 1.5.0
 numpy 1.12.1
 
 ## Run
-python main_3D-RecGAN.py
+python main_3D_defo_net.py
 
 ## Citation
 If you use the paper, code or data for your research, please cite:
